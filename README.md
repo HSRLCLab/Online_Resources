@@ -4,6 +4,8 @@
 
 https://github.com/tvanantwerp/github-for-non-programmers/blob/master/SUMMARY.md 
 
+https://github.com/HSRLCLab/Online_Resources/blob/master/git.md
+
 ## Sublime 
 
 [Einführung] 
