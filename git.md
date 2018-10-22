@@ -33,7 +33,7 @@ updates info about remote repo, follow up with git status
 
 Lists the files in your .ssh directory, if they exist (usually id\_rsa.pub / id\_rsa)
 
-    ssh-keygen -t rsa -b 4096 -C "berni.fradl@gmail.com"
+    ssh-keygen -t rsa -b 4096 -C "bfradl@hsr.ch"
 
 Creates a new ssh key, using the provided email as a label / Passphrase question optional
 
