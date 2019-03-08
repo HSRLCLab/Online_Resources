@@ -25,3 +25,9 @@
 ## Sublime 
 
 [Einführung] - tbd
+
+# Reference Documents
+
+[Paper - A Framework for Advanced PLM (pdf)](https://github.com/HSRLCLab/Online_Resources/blob/master/A%20Framework%20for%20Advanced%20PLM-09.pdf)
+
+[Interdisciplinary Methods (german)](https://github.com/HSRLCLab/Online_Resources/blob/master/Interdisz-Konstrmeth-VDI-Konstruktion1218.pdf)
