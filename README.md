@@ -2,11 +2,13 @@
 
 ## Git
 
-https://github.com/tvanantwerp/github-for-non-programmers/blob/master/SUMMARY.md 
+[Summary by Berni](https://github.com/HSRLCLab/Online_Resources/blob/master/git.md)
 
-https://github.com/HSRLCLab/Online_Resources/blob/master/git.md
+[Cheat Sheet (pdf)](https://github.com/HSRLCLab/Online_Resources/blob/master/github-git-cheat-sheet.pdf)
 
-https://hackernoon.com/top-5-free-courses-to-learn-git-and-github-best-of-lot-2f394c6533b0
+[Github for non Programmers](https://github.com/tvanantwerp/github-for-non-programmers/blob/master/SUMMARY.md)
+
+[courses to learn git](https://hackernoon.com/top-5-free-courses-to-learn-git-and-github-best-of-lot-2f394c6533b0)
 
 ## Sublime 
 
