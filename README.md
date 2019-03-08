@@ -10,22 +10,16 @@
 
 [courses to learn git](https://hackernoon.com/top-5-free-courses-to-learn-git-and-github-best-of-lot-2f394c6533b0)
 
-## Sublime 
-
-[Einführung] 
-
-[Shortcuts]
-
 ## Console
 
-[Einführung] 
+[Introduction to the command line](https://tutorial.djangogirls.org/en/intro_to_command_line/)
 
 ## Node-Red
 
-[Link zu Webseite]
+[Official Website](https://nodered.org/) the documentation on this site is quite good and you can find premade flows to import as a quickstart.
+[Installation](https://nodered.org/docs/getting-started/installation)
+[Node-Red Programming Guide](http://noderedguide.com/)
 
-[Einführung] 
+## Sublime 
 
-[Einfache Anwendungsfälle mit Arduino]
-
-
+[Einführung] - tbd
